@@ -12,8 +12,22 @@ p {
   font-size: 20px;
 }
 
+.Header {
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
+  padding: 60px;
+}
+
+.DivOne {
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
+}
+
 .AboutMe {
   border: 5px outset red;
   background-color: lightblue;
   text-align: center;
 }
+
