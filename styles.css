@@ -29,14 +29,14 @@ p {
   border: 10px outset red;
   background-color: lightblue;
   text-align: center;
-  width: 500px;
+  width: 900px;
   position: relative;
   animation-name: MoveLeft;
-  animation-duration: 4s;
+  animation-duration: 3s;
 }
 
 @keyframes MoveLeft {
-  0%   {left:1000px; top:0px;}
-  100% {left:200px; top:0px;}
+  0%   {left:2000px; top:0px;}
+  100% {left:0px; top:0px;}
 }
 
