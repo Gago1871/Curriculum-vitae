@@ -30,6 +30,7 @@ p {
   background-color: lightblue;
   text-align: center;
   width: 500px;
+  position: relative;
   animation-name: MoveLeft;
   animation-duration: 2s;
 }
