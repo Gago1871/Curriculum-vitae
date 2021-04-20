@@ -13,7 +13,7 @@ p {
 }
 
 .Header {
-  padding: 50px;
+  height: 500px;
   border: 10px outset red;
   background-color: lightblue;
   text-align: center;
@@ -21,14 +21,14 @@ p {
 }
 
 .DivOne {
-  padding: 50px;
+  height: 500px;
   border: 10px outset red;
   background-color: lightblue;
   text-align: center;
 }
 
 .AboutMe {
-  padding: 50px;
+  height: 500px;
   border: 5px outset red;
   background-color: lightblue;
   text-align: center;
