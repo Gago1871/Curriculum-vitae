@@ -35,6 +35,7 @@ p {
   position: relative;
   animation-name: MoveLeft;
   animation-duration: 5s;
+  animation-timing-function: ease-out;
 }
 
 @keyframes MoveLeft {
