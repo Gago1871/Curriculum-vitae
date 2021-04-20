@@ -36,10 +36,11 @@ p {
   animation-name: MoveLeft;
   animation-duration: 5s;
   animation-timing-function: ease-out;
+  animation-fill-mode: forwards;
 }
 
 @keyframes MoveLeft {
-  0%   {left:2000px; top:0px;}
-  100% {left:0px; top:0px;}
+  0%   {left:2000px; top:30px;}
+  100% {left:0px; top:30px;}
 }
 
