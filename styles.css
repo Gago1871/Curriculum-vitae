@@ -32,11 +32,11 @@ p {
   width: 500px;
   position: relative;
   animation-name: MoveLeft;
-  animation-duration: 2s;
+  animation-duration: 4s;
 }
 
 @keyframes MoveLeft {
-  0%   {left:200px; top:0px;}
-  100% {left:0px; top:0px;}
+  0%   {left:1000px; top:0px;}
+  100% {left:200px; top:0px;}
 }
 
