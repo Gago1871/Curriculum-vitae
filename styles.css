@@ -29,5 +29,6 @@ p {
   border: 10px outset red;
   background-color: lightblue;
   text-align: center;
+  width: 500px;
 }
 
