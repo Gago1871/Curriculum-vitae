@@ -38,7 +38,7 @@ p {
 }
 
 @keyframes MoveLeft {
-  0%   {left:2000px; top:30px;}
-  100% {left:0px; top:30px;}
+  0%   {left:2000px; top:0px;}
+  100% {left:0px; top:0px;}
 }
 
