@@ -13,23 +13,24 @@ p {
 }
 
 .Header {
-  height: 500px;
-  border: 5px outset Blue;
+  height: 300px;
+  border: 2px outset rgb(77, 134, 255);
   background-color: lightblue;
   text-align: center;
-  padding: 60px;
+
 }
 
 .DivOne {
-  height: 500px;
-  border: 5px outset Blue;
+  height: 300px;
+  border: 2px outset rgb(77, 134, 255);
   background-color: lightblue;
   text-align: center;
+
 }
 
 .AboutMe {
-  height: 500px;
-  border: 5px outset Blue;
+  height: 300px;
+  border: 2px outset rgb(77, 134, 255);
   background-color: lightblue;
   text-align: center;
   position: relative;
@@ -37,6 +38,7 @@ p {
   animation-duration: 5s;
   animation-timing-function: ease-out;
   animation-fill-mode: forwards;
+
 }
 
 @keyframes MoveLeft {
